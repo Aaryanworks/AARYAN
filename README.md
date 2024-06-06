@@ -2,7 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 passionate full stack developer
--------------------------------
+<img align="right" alt="coding" width="400"  src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810">
+-----------------------
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://aaryanworks.github.io/my-personal-portfolio/](http://https://aaryanworks.github.io/my-personal-portfolio/)
@@ -12,7 +13,11 @@ passionate full stack developer
 * ⚡  I m BATMAN working for TOMORROW
 
 
+
+
 ### Skills
+
+
 
 
 <p align="left">
